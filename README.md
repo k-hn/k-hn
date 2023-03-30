@@ -1,9 +1,10 @@
-Visit count (Since 30/03/2023):
+### Hi! 👋
+- 🌱 I’m currently learning OCaml
+- 👯 I’m looking to collaborate on interesting projects.
 
 ![](https://visitcount.itsvg.in/api?id=k-hn&color=1)
 
-### Hi there 👋
-
+`(Since 30/03/2023)` 
 <!--
 **k-hn/k-hn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
