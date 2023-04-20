@@ -1,5 +1,5 @@
 ### Hi! 👋
-- 🌱 I’m currently learning StandardML
+- 🌱 I’m currently learning about functional programming
 - 👯 I’m looking to collaborate on interesting projects.
 
 ![](https://visitcount.itsvg.in/api?id=k-hn&color=1)
